@@ -16,3 +16,13 @@ D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.genruntimeconfig.c
 D:\ADBConnectionApp\obj\Debug\net8.0-windows\ref\ADBConnectionApp.dll
 D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.Properties.Resources.resources
 D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.Form2.resources
+D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.sourcelink.json
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\x86\tesseract50.dll
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\x64\tesseract50.dll
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\Tesseract.dll
+D:\ADBConnectionApp\bin\Debug\net8.0-windows\Tesseract.Drawing.dll
+D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.csproj.AssemblyReference.cache
+D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConne.EC16AF6C.Up2Date
+D:\ADBConnectionApp\obj\Debug\net8.0-windows\ADBConnectionApp.FormCropResult.resources

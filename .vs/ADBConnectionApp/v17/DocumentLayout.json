@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\formcropresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:formcropresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\formcropresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:formcropresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|d:\\adbconnectionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40760593-D9F5-4602-8F8B-FD56439CDAAC}|ADBConnectionApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +42,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 183,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCropResult.cs",
+              "DocumentMoniker": "D:\\ADBConnectionApp\\FormCropResult.cs",
+              "RelativeDocumentMoniker": "FormCropResult.cs",
+              "ToolTip": "D:\\ADBConnectionApp\\FormCropResult.cs",
+              "RelativeToolTip": "FormCropResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:51:54.949Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCropResult.cs [Design]",
+              "DocumentMoniker": "D:\\ADBConnectionApp\\FormCropResult.cs",
+              "RelativeDocumentMoniker": "FormCropResult.cs",
+              "ToolTip": "D:\\ADBConnectionApp\\FormCropResult.cs [Design]",
+              "RelativeToolTip": "FormCropResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:51:36.076Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -48,27 +81,27 @@
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "D:\\ADBConnectionApp\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T08:15:49.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "D:\\ADBConnectionApp\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
               "ToolTip": "D:\\ADBConnectionApp\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T08:15:42.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\ADBConnectionApp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -80,20 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\ADBConnectionApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "D:\\ADBConnectionApp\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAiwIIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T07:47:36.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\ADBConnectionApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -105,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\ADBConnectionApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

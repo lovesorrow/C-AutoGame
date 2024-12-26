@@ -38,8 +38,11 @@
             pictureBox1.Location = new Point(12, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(266, 421);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
+            pictureBox1.MouseUp += pictureBox1_MouseUp;
+            pictureBox1.MouseDown += pictureBox1_MouseDown;
             // 
             // btnCrop
             // 

@@ -128,6 +128,7 @@
             Action.Name = "Action";
             Action.Resizable = DataGridViewTriState.True;
             Action.SortMode = DataGridViewColumnSortMode.Automatic;
+            dataGridView1.DataSource = GetConnectedDevice();
             // 
             // Form1
             // 

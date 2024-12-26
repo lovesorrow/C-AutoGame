@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADBConnectionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+925551ef3154d1103b6e06fca82769b8432d0bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADBConnectionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADBConnectionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
